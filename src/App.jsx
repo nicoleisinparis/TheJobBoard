@@ -1,13 +1,13 @@
 import "./App.css";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import Job from "./components/Job";
+import Jobs from "./components/Jobs";
 
 const App = () => {
   return (
     <div className="App">
       <Header />
-      <Job />
+      <Jobs />
       <Footer />
     </div>
   );
