@@ -1,0 +1,81 @@
+[
+  {
+    "className": "red",
+    "title": "Full Time Sales Associate - Sydney Boutique",
+    "contractType": "CDI",
+    "country": "Australia",
+    "city": "Sydney",
+    "id": 1
+  },
+
+  {
+    "className": "green",
+    "title": "Agent de Sécurité - Pantin",
+    "contractType": "CDI",
+    "country": "France",
+    "city": "Pantin",
+    "id": 2
+  },
+
+  {
+    "className": "yellow",
+    "title": "Responsable d'Atelier (H/F)",
+    "contractType": "CDD",
+    "country": "France",
+    "city": "Paris",
+    "id": 3
+  },
+
+  {
+    "className": "blue",
+    "title": "Chef de Projets",
+    "contractType": "CDD",
+    "country": "France",
+    "city": "Paris",
+    "id": 4
+  },
+
+  {
+    "className": "pink",
+    "title": "Développeur React.js",
+    "contractType": "CDI",
+    "country": "France",
+    "city": "Paris",
+    "id": 5
+  },
+
+  {
+    "className": "red",
+    "title": "Sales Associate Stockholm",
+    "contractType": "CDI",
+    "country": "Suède",
+    "city": "Stockholm",
+    "id": 6
+  },
+
+  {
+    "className": "green",
+    "title": "Vendeur/se - Crans Montana",
+    "contractType": "CDI",
+    "country": "Suisse",
+    "city": "Crans-Montana",
+    "id": 7
+  },
+
+  {
+    "className": "yellow",
+    "title": "CRM & Data Quality Analyst",
+    "contractType": "CDI",
+    "country": "USA",
+    "city": "New York",
+    "id": 8
+  },
+  {
+    "className": "blue",
+    "title": "Infirmier (H/F)",
+    "contractType": "CDI",
+    "country": "France",
+    "city": "Pantin",
+    "id": 9
+  }
+]

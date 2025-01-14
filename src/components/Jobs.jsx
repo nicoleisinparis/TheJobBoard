@@ -1,9 +1,21 @@
 import Job from "./Job";
-
+import data from "../assets/data.json";
 const Jobs = () => {
   return (
     <div className="box">
-      <Job
+      {data.map((elem) => {
+        return (
+          <Job
+            keu={elem.id}
+            title={elem.title}
+            contractType={elem.contractType}
+            country={elem.country}
+            city={elem.city}
+            className={elem.className}
+          />
+        );
+      })}
+      {/* <Job
         className="red"
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
@@ -65,7 +77,7 @@ const Jobs = () => {
         contractType="CDI"
         country="France"
         city="Pantin"
-      />
+      /> */}
     </div>
   );
 };
