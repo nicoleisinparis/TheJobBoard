@@ -6,7 +6,7 @@ const Jobs = () => {
       {data.map((elem) => {
         return (
           <Job
-            keu={elem.id}
+            key={elem.id}
             title={elem.title}
             contractType={elem.contractType}
             country={elem.country}
